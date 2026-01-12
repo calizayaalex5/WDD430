@@ -1,0 +1,340 @@
+[00:00:00.971] Server  LOG     ✓ Ready in 632ms
+[00:00:01.079] Server  ERROR   ⨯ ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+
+[00:00:01.445] Browser ERROR   uncaughtError: Error: ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+
+[00:00:01.872] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:00:01.872] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:00:02.735] Server  ERROR   ⨯ ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+
+[00:00:02.820] Browser ERROR   uncaughtError: Error: ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+
+[00:00:02.969] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:00:02.969] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:00:36.511] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:02:15.499] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:02:57.513] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:03:06.502] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:13:40.502] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:13:59.511] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:15:14.508] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:16:44.503] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:27:46.500] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:29:37.511] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:30:46.507] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:32:52.509] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:1:10
+Ecmascript file had an error
+> 1 | import { useState } from 'react';
+    |          ^^^^^^^^
+  2 |
+  3 | function Header({ title }) {
+  4 |     return <h1>{title ? title : "Default title:"}</h1>;
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:33:21.513] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:33:1
+Parsing ecmascript source code failed
+  31 |     </div>
+  32 | )
+> 33 | }
+     | ^
+  34 |
+  35 |
+  36 |
+
+Expression expected
+[00:33:29.504] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:33:1
+Parsing ecmascript source code failed
+  31 |     </div>
+  32 | )
+> 33 | }
+     | ^
+  34 |
+  35 |
+  36 |
+
+Expression expected
+[00:33:47.513] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:33:1
+Parsing ecmascript source code failed
+  31 |     </div>
+  32 | )
+> 33 | }
+     | ^
+  34 |
+  35 |
+  36 |
+
+Expression expected
+[00:34:22.512] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:33:1
+Parsing ecmascript source code failed
+  31 |     </div>
+  32 | )
+> 33 | }
+     | ^
+  34 |
+  35 |
+  36 |
+
+Expression expected
+[00:34:50.500] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:33:1
+Parsing ecmascript source code failed
+  31 |     </div>
+  32 | )
+> 33 | }
+     | ^
+  34 |
+  35 |
+  36 |
+
+Expression expected
+[00:34:51.506] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:35:1
+Parsing ecmascript source code failed
+  33 |     </div>
+  34 | )
+> 35 | }
+     | ^
+  36 |
+  37 |
+  38 |
+
+Expression expected
+[00:35:17.511] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:36:1
+Parsing ecmascript source code failed
+  34 |     </div>
+  35 | )
+> 36 | }
+     | ^
+  37 |
+  38 |
+  39 |
+
+Expression expected
+[00:35:34.500] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:36:1
+Parsing ecmascript source code failed
+  34 |     </div>
+  35 | )
+> 36 | }
+     | ^
+  37 |
+  38 |
+  39 |
+
+Expression expected
+[00:35:35.501] Browser ERROR   ./Documents/WDD430/week_01/app/page.js:36:1
+Parsing ecmascript source code failed
+  34 |     </div>
+  35 | )
+> 36 | }
+     | ^
+  37 |
+  38 |
+  39 |
+
+Expression expected
+[00:35:35.967] Server  LOG     ✓ Compiled in 42ms
+[00:35:36.456] Server  ERROR   ⨯ ReferenceError: names is not defined
+[00:35:36.628] Server  ERROR   ⨯ ReferenceError: names is not defined
+[00:35:36.802] Browser ERROR   uncaughtError: ReferenceError: names is not defined
